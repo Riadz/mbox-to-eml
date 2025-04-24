@@ -8,7 +8,7 @@ This script takes an MBOX file as input and extracts each email message, saving 
 
 ## Usage
 
-1.  **Install Python:** Ensure you have Python 3.6 or higher installed.
+1.  **Install Python and Git:** Ensure you have Python 3.6 or higher and Git installed.
 2.  **Clone the repository:**
 
     ```bash
