@@ -2,19 +2,19 @@
 
 This Python script converts an MBOX file into a series of individual `.eml` files.
 
-## Description
-
-This script takes an MBOX file as input and extracts each email message, saving it as a separate `.eml` file.
-
 ## Usage
 
-1.  **Install Python and Git:** Ensure you have Python 3.6 or higher and Git installed.
+1.  **Install Python:** Ensure you have Python 3.6 or higher installed.
 2.  **Clone the repository:**
+
+    If you have git installed, you can clone the repository using the following command:
 
     ```bash
     git clone git@github.com:Riadz/mbox-to-eml.git
     cd mbox-to-eml
     ```
+
+    If you don't have git installed, you can download the zip file from the repository and extract it.
 
 3.  **Prepare your MBOX file:** Replace `all_mail.mbox` with the path to your MBOX file.
 4.  **Run the script:**
