@@ -12,7 +12,7 @@ This script takes an MBOX file as input and extracts each email message, saving 
 2.  **Clone the repository:**
 
     ```bash
-    git clone <repository_url>
+    git clone git@github.com:Riadz/mbox-to-eml.git
     cd mbox-to-eml
     ```
 
